@@ -14,6 +14,6 @@
 #end
 
 def find_min_in_nested_arrays(src)
-min_array = 
+min_array = src.map 
 
 end
